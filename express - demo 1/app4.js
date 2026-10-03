@@ -21,3 +21,4 @@ user.on("logout", (username) => {
 // Emit events
 user.emit("login", "Uday");
 user.emit("logout", "Uday");
+// events 
